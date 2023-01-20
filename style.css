@@ -1,0 +1,561 @@
+body{
+    background-color: #0b0c0f;
+}
+ul li{
+  text-decoration: none;
+}
+/* css of navbar, 1st and 2nd section */
+
+.navbartomaster{
+    background-image: url("original.jfif");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.navbar-brand{
+    width:250px;
+  padding-left: 30px;
+}
+.navbar-brand img{
+    width:60px;
+}
+form .btn a{
+  font-size: 1rem;
+  font-family: bold;
+}
+form{
+  padding-right: 30px;
+}
+.btn{
+    color:white;
+    text-decoration: none;
+}
+.customsize img{
+    height: 515px;
+    width: 283px;
+
+}
+span{
+    color: #1fdb1f;
+    font-weight: bold;
+}
+.container{
+    padding: 50px 0px 60px 0px;
+
+}
+.library{
+    margin-top: 10px;
+    padding-top: 50px;
+}
+h2, p, h3{
+    color:white;
+    font-weight: bold;
+}
+.disclaimer{
+    color: #ada4a4;
+    font-size: 11px;
+    text-align: left;
+}
+
+.masterhead{
+    padding-top: 50px;
+    /* background-image: url("original.jfif");
+    background-size:cover;
+    background-repeat: no-repeat; */
+}
+
+.accesibility img{
+    height: 135px;
+    width: 602px;
+}
+.buttonone{
+  align-items: center;
+    background-color: rgb(28, 231, 131);
+    width: 670px;
+    height: 48px;
+    border-radius: 5px;
+    border:none;
+}
+.terms{
+    padding: 20px 20px;
+}
+.masterheadterms a{
+    color:white;
+    font-size: 12px;
+    padding: 0px 0px 0px 35px;
+}
+.masterhead-hulu-only a, .terms a{
+    color:white;
+    
+}
+.masterhead-hulu-only{
+    padding: 20px 0px 40px 0px;
+}
+.get-hulu-withads{
+    color:white;
+font-size: 25px;
+}
+
+.ribbon{
+    background-color: rgb(71, 71, 71);
+}
+.Ribbon__brand-img{
+    padding-left: 60px;
+}
+
+  .p{
+    width: 50px;
+  }
+
+  .getthemboth{
+    padding-top: 30px;
+  }
+
+/* end css of navbar, 1st and 2nd section */
+
+/* Start 3rd section khaizan */
+
+ .billoard{
+    background-color: #0b0c0f;
+    height: 700px;
+    width: 100%;
+    padding: 1px;
+    padding-top: 1px;
+      padding-right: 1px;
+      padding-bottom: 1px;
+      padding-left: 1px;
+    font-family: "Graphik Web", "Graphik", Helvetica, Arial, sans-serif;
+  }
+  .billboard_border{
+    border: #000;
+    margin: 40px 18px;
+    margin-top: 19px;
+      margin-right: 10px;
+      margin-bottom: 19px;
+      margin-left: 10px;
+    box-sizing: border-box;
+        box-sizing: border-box;
+      border-radius: 16px;
+      border-top-left-radius: 16px;
+      border-top-right-radius: 16px;
+      border-bottom-right-radius: 16px;
+      border-bottom-left-radius: 16px;
+    border-top-width: initial;
+      border-right-width: initial;
+      border-bottom-width: initial;
+      border-left-width: initial;
+      border-top-style: initial;
+      border-right-style: initial;
+      border-bottom-style: initial;
+      border-left-style: initial;
+      border-top-color: rgb(0, 0, 0);
+      border-right-color: rgb(0, 0, 0);
+      border-bottom-color: rgb(0, 0, 0);
+      border-left-color: rgb(0, 0, 0);
+      border-image-source: initial;
+      border-image-slice: initial;
+      border-image-width: initial;
+      border-image-outset: initial;
+      border-image-repeat: initial;
+  }
+  .billboard_container{
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+  .billboard_eyebrow{
+    color: #1ce783;
+    font-family: 'Graphik Web', 'Graphik', sans-serif;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: .6px;
+    line-height: 1;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .Billboard__headline{
+      margin: 16px 3% 0;
+      font-family: 'Graphik Web', 'Graphik', sans-serif;
+      font-size: 32px;
+      font-weight: 600;
+      letter-spacing: -.2px;
+      line-height: 1.2;
+      text-transform: none;
+        text-align: center;
+      color: #fff;
+  }
+  h2 {
+      display: block;
+      font-size: 1.5em;
+      margin-block-start: 0.83em;
+      margin-block-end: 0.83em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+  }
+  .billboard_subheadline{
+      margin: 12px 5% 0;
+      font-family: 'Graphik Web', 'Graphik', sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      letter-spacing: 0px;
+      line-height: 1.36;
+      text-transform: none;
+    text-align: center;
+      color: #fff;
+  }
+  h3 {
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+  }
+  p {
+      display: block;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+  }
+  .section-disclaimer {
+      font-family: 'Graphik Web', 'Graphik', sans-serif;
+      font-size: 10px;
+      font-weight: 400;
+      letter-spacing: 0px;
+      line-height: 1.46;
+      text-transform: none;
+      color: rgba(255,255,255,0.6);
+  }
+  .Billboard__disclaimer{
+    font-size: 0.7rem;
+    color: #8f8a8a;
+    padding-top: 2%;
+    text-align: center;
+  }
+  .Billboard__modalLink{
+      text-decoration: underline;
+      opacity: 0.8;
+      color: #fff;
+      margin-top: 16px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      background: none;
+      border: none;
+      padding: 0;
+      margin: 16px auto 0 auto;
+      font-family: 'Graphik Web', 'Graphik', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: .6px;
+      line-height: 1;
+      text-transform: uppercase;
+  }
+  .Billboard__downArrow {
+    background: url(https://www.hulu.com/static/hitch/static/icons/dropdown_arrow.svg) no-repeat center;
+    height: 16px;
+    margin-top: 55px;
+    cursor: pointer;
+    width: 18px;
+    padding: 0;
+    border: none;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    color: #fff;
+    margin: 0 auto;
+    -webkit-animation: move-up-and-down 1s infinite alternate;
+    animation: move-up-and-down 1s infinite alternate;
+  }
+  button{
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+    border-radius: 0;
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    align-items: flex-start;
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    word-spacing: normal;
+    text-indent: 0px;
+    text-shadow: none;
+  }
+  
+  @keyframes move-up-and-down{
+  {
+    transform: translateY(0);
+  }
+  100% {
+      transform: translateY(-10px);
+      }
+  }
+
+/* End of 3rd section */
+
+/* Start of 4th section Berna */
+#tab-section{
+  width: 450px;
+  margin-left: 0;
+  padding-top: 200px;
+}
+
+#section{
+  position: relative;
+  height: calc(100vh + 165px);
+  overflow-x: hidden;
+
+
+}
+
+.nav-pills#myTab li > button.btn{
+  border-radius: 0 !important;
+  border: none !important;
+  transition: .25s ease-out;
+  position: relative;
+  color: rgb(160, 160, 160);
+}
+
+.nav-pills#myTab li > button.btn:hover {
+  color: rgb(214, 214, 214);
+}
+
+.nav-pills#myTab li > button.btn:after {
+  content: "";
+  height: 3px;
+  width: 100%;
+  background-color: transparent;
+
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.nav-pills#myTab li > button.btn.active{
+  color: white !important;
+}
+.nav-pills#myTab li > button.btn.active::after {
+  background-color: white;
+}
+
+
+ .tab-pane,
+ .nav-pills {
+  position: relative;
+  z-index: 1;
+}
+
+
+.tab-title{
+  color: white;
+font-size: 38px;
+font-weight: bold;
+display: block;
+margin-top: 25px;
+}
+
+.tab-desc{
+margin-top: 25px; 
+  color: white;
+  font-size: 16px;
+  line-height: 1.36;
+  font-weight: 400px;
+  z-index: 1;
+}
+
+/* 
+.logos-container{
+  display: flex;
+  gap: 20px;
+  
+} */
+
+.mini-logo{
+  height: 40px;
+  width: 40px;
+  border-radius: 100vmax;
+  background-color: white;
+  display: grid;
+  place-items: center;
+  
+}
+
+.mini-logo img {
+  height: auto;
+  width: 35px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.tab-brief{
+  color: white;
+  font-size: 10px;
+  font-weight: 400px;
+  line-height: 1.46;
+  margin-top: 25px;
+}
+
+.tab-brief a{
+  color: white;
+}
+
+
+.tab-pane + .bg-image-container{
+display: none;
+}
+
+.tab-pane.show.active + .bg-image-container {
+display: block;
+height: 100%;
+
+position: absolute;
+inset: 0;
+object-fit: cover;
+object-position: center;
+z-index: 0; 
+}
+
+.bg-image-container > picture img {
+  height: 100%;
+  width: auto;
+}
+
+@media screen and (max-width: 767px){
+  #tab-section{
+    width: 100%;
+    margin-left: 0;
+    padding-top: 200px;
+  }
+
+  .bg-image-container > picture img {
+    height: 100%;
+    width: 100%;
+  }
+  
+}
+/* End of 4th section */
+
+/* Start of Janela CSS */
+@font-face {
+    font-family: Graphik;
+    src: url(Graphik-Semibold.ttf);
+}
+
+@font-face {
+    font-family: Graphik Reg;
+    src: url(Graphik-Regular.ttf);
+}
+
+@font-face {
+    font-family: Graphik Med;
+    src: url(Graphik-Medium.ttf);
+}
+
+.div-title {
+    font-family: 'Graphik', sans-serif;
+    font-size: 47px;
+    font-weight: bold;
+}
+
+.font-reg {
+    font-family: 'Graphik Reg', sans-serif;
+    font-size: 18px;
+    line-height: 12px;
+}
+
+.font-bold {
+    font-family: 'Graphik', sans-serif;
+    font-size: 18px;
+    line-height: 10px;
+}
+
+#font-strd {
+    font-family: 'Graphik', sans-serif;
+    font-size: 14px;
+}
+
+#flexSwitchCheckDefault {
+    width: 56px;
+    height: 30px;
+}
+
+.custom-btn {
+    font-size: 10px;
+    letter-spacing: .5px;
+    font-family: 'Graphik Med', sans-serif;
+    color: black;
+    background-color: #1ce783;
+    padding: 9px 30px 7px 30px;
+    border-radius: 1rem;
+}
+
+#font-day {
+    font-family: 'Graphik Med', sans-serif;
+    color: #bec0c2;
+    font-size: 15px;
+    letter-spacing: .5px;
+}
+
+#font-bold2 {
+    font-family: 'Graphik', sans-serif;
+    font-size: 20px;
+}
+
+#font-price {
+    font-family: 'Graphik Med', sans-serif;
+    color: black;
+    letter-spacing: .5px;
+}
+
+#font-grid-plan {
+    font-family: 'Graphik Reg', sans-serif;
+    font-size: 14px;
+}
+
+#xs-font {
+    font-size: x-small;
+}
+
+@media (max-width: 991px) {
+    .container{
+        width: 100%;
+    }
+    #first-col{
+        border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+        padding-bottom: 20px;
+        border-width: 100%;
+        position: unset;
+    }
+    .hr{
+        width: 100%;
+    }
+    .btn-light{
+        height: 40px;
+        text-align: cen ter;
+    }
+    #left-col{
+        margin: 0;
+        border-right: 1px solid rgba(255, 255, 255, 0.25);
+        height: 100%;
+    }
+    .col-xs-12{
+        text-align: center;
+        padding-bottom: 5px;
+    }
+    #check-row{
+        border-right: 1px solid rgba(255, 255, 255, 1);
+    }
+    #xs-font{
+        text-align: center;
+    }
+}
+/* End of Janela CSS */
